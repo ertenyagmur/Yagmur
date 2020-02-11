@@ -1,3 +1,7 @@
+//by Hani and Yagmur
+//inspired from https://create.arduino.cc/projecthub/archievkumar19/lights-music-action-7c43b7 & https://www.youtube.com/watch?v=RwHGioglbk8
+
+
 const int redPin = 11;
 const int greenPin = 10;
 const int bluePin = 9;
