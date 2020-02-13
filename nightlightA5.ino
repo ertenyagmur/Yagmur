@@ -1,4 +1,4 @@
-//by Hani and Yagmur
+//by Hani Kruger and Yagmur Erten
 //inspired from https://create.arduino.cc/projecthub/archievkumar19/lights-music-action-7c43b7 & https://www.youtube.com/watch?v=RwHGioglbk8
 
 
